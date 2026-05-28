@@ -1,16 +1,16 @@
-## Hi there 👋
+#### Hi there! :scream_cat: :smiley_cat:
 
-<!--
-**thn-nguyen/thn-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thinh, a cybersecurity student at George Mason University.
 
-Here are some ideas to get you started:
+I spend most of my time learning how systems work and how to protect them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to internships, on-campus roles, projects, and academic opportunities to improve my skills and gain experience in professional environments.
+
+---
+#### Skills & Tools
+- Cybersecurity fundamentals.
+- Basic understanding of: Bash scripting, SQL, Linux, Python.
+
+---
+#### Certification
+- Google Cybersecurity Professional Certificate.
